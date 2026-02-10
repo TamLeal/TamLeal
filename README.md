@@ -1,70 +1,109 @@
-# Hi, I'm Tam Leal
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=520&lines=Hi%2C+I'm+Tam+Leal+%F0%9F%91%8B;Automation+%26+AI+Engineer;Building+Scalable+Pipelines;Integrating+LLMs+into+Workflows" alt="Typing SVG" />
+  </a>
+</h1>
 
-Automation & AI Engineer building scalable data pipelines, intelligent workflows, and internal tools.
+<p align="center">
+  <em>
+    Building scalable data pipelines, intelligent workflows, and internal tools.<br>
+    Specialized in Python, LLM integrations, AI-powered systems, and rapid prototyping.
+  </em>
+</p>
 
-Specialized in Python, LLM integrations, AI-powered systems, and rapid prototyping.
-
----
-
-## Tech Stack
-
-### AI / Data / Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0B3C49?style=for-the-badge&logo=chainlink&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<br>
 
 ---
 
-### Backend / Infra
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+<br>
+
+## <img src="https://cdn.simpleicons.org/stackoverflow/0969DA" width="22" />&nbsp;&nbsp;Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="160"><strong>AI / Data</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,r,fastapi&theme=light" alt="AI & Data" />
+      </a>
+      &nbsp;
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /></a>
+      <a href="#"><img src="https://img.icons8.com/fluency/48/chatgpt.png" width="48" height="48" alt="LLMs" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend / Infra</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=flask,docker,aws,supabase&theme=light" alt="Backend & Infra" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,html,css&theme=light" alt="Frontend" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Storage</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=light" alt="Storage" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Workflow</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=github&theme=light" alt="Workflow" />
+      </a>
+      &nbsp;
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="48" height="48" alt="Slack" /></a>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
-### Frontend / Prototyping
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br>
+
+## <img src="https://cdn.simpleicons.org/checkmarx/0969DA" width="22" />&nbsp;&nbsp;What I Do
+
+&nbsp;&nbsp;&nbsp;&nbsp;▸ Build AI-powered automation systems<br>
+&nbsp;&nbsp;&nbsp;&nbsp;▸ Design scalable data pipelines<br>
+&nbsp;&nbsp;&nbsp;&nbsp;▸ Integrate LLMs into real workflows<br>
+&nbsp;&nbsp;&nbsp;&nbsp;▸ Prototype internal tools and platforms<br>
+&nbsp;&nbsp;&nbsp;&nbsp;▸ Create validation and quality systems<br>
+&nbsp;&nbsp;&nbsp;&nbsp;▸ Automate complex operational processes
+
+<br>
 
 ---
 
-### Data / Storage
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<br>
+
+## <img src="https://cdn.simpleicons.org/minutemailer/0969DA" width="22" />&nbsp;&nbsp;Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/tamerleal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tamer_Leal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:tamerleal22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-tamerleal22-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br>
 
 ---
 
-### Workflow / Interfaces
-![Slack](https://img.shields.io/badge/Slack_Bots-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## What I Do
-
-- Build AI-powered automation systems
-- Design scalable data pipelines
-- Integrate LLMs into real workflows
-- Prototype internal tools and platforms
-- Create validation and quality systems
-- Automate complex operational processes
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tamer_Leal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamerleal/)
-[![Email](https://img.shields.io/badge/Email-tamerleal22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamerleal22@gmail.com)
-
----
-
-Always building. Always learning.
+<p align="center">
+  <em>Always building. Always learning.</em>
+</p>
